@@ -1,1 +1,35 @@
-
+[
+    {
+        "introduction": "The graph below shows changing ocean tide heights in feet (ft) on April 7 for a coastal location.",
+        "image": "question1.png",
+        "question": "The next high tide will occur on April 8 at approximately",
+        "choices": [
+            { "text": "10 a.m." },
+            { "text": "10 p.m." },
+            { "text": "3 a.m." },
+            { "text": "3 p.m." }
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Scientists who proposed the Big Bang Theory were attempting to explain",
+        "choices": [
+            { "text": "the origin of the universe" },
+            { "text": "why stars have different luminosities" },
+            { "text": "the formation of our solar system" },
+            { "text": "how Earth's atmosphere evolved" }
+        ],
+        "correct": 1
+    },
+    {
+        "question": "",
+        "choices": [
+            { "text": "" },
+            { "text": "" },
+            { "text": "" },
+            { "text": "" }
+        ],
+        "correct": 1
+    },
+    
+]
